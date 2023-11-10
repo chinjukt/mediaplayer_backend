@@ -1,0 +1,92 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "vijay",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zFErm-_sXCazaJFEbGZFrHT43CHPQcVNNEnP2jo&s",
+      "embeblink": "https://www.youtube.com/embed/deQcxldcOog"
+    },
+    {
+      "id": "3",
+      "caption": "varis",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_bt04D7kAq7xS49hRoZMAzfd3NypvVHbP7BSQi2vFg&s",
+      "embeblink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "4",
+      "caption": "jailer",
+      "url": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/08/Jailer.jpeg",
+      "embeblink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "5",
+      "caption": "vikram",
+      "url": "https://static.toiimg.com/photo/msid-90546885/90546885.jpg",
+      "embeblink": "https://www.youtube.com/embed/OsLCY3vz3t8"
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "tamil movie videos",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "vijay",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zFErm-_sXCazaJFEbGZFrHT43CHPQcVNNEnP2jo&s",
+          "embeblink": "https://www.youtube.com/embed/deQcxldcOog"
+        },
+        {
+          "id": "3",
+          "caption": "varis",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_bt04D7kAq7xS49hRoZMAzfd3NypvVHbP7BSQi2vFg&s",
+          "embeblink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryname": "hindi movies video",
+      "allvideos": [
+        {
+          "id": "3",
+          "caption": "varis",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_bt04D7kAq7xS49hRoZMAzfd3NypvVHbP7BSQi2vFg&s",
+          "embeblink": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "6",
+          "caption": "hikku",
+          "url": "https://www.shutterstock.com/image-photo/open-old-book-text-haiku-260nw-2134423781.jpg",
+          "embeblink": "https://www.youtube.com/embed/dz7YReHSmWo"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "jailer",
+      "embeblink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timestamp": "11/08/2023, 01:53:19 PM",
+      "id": 2
+    },
+    {
+      "caption": "hikku",
+      "embeblink": "https://www.youtube.com/embed/dz7YReHSmWo",
+      "timestamp": "11/08/2023, 01:53:22 PM",
+      "id": 3
+    },
+    {
+      "caption": "vikram",
+      "embeblink": "https://www.youtube.com/embed/OsLCY3vz3t8",
+      "timestamp": "11/08/2023, 01:53:25 PM",
+      "id": 4
+    },
+    {
+      "caption": "varis",
+      "embeblink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timestamp": "11/09/2023, 01:33:26 PM",
+      "id": 5
+    }
+  ]
+}
